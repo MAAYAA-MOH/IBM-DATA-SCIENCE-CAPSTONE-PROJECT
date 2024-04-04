@@ -22,18 +22,11 @@ This repo is shared for learning purpose not for cheating! If you find same slid
 - [Week 3](#week3)
 - [Week 4](#week4)
 - [Week 5](#week5)
-- [Out of the Box Thinking](#outofbox)
-- [Technology Stack](#tech_stack)
-- [Tips & Tricks](#tips_tricks)
-- [Extra Study Materials](#extra_study)
+
 
 ## 🏁 Introduction <a name = "introduction"></a>
 
 The commercial space age is here, companies are making space travel affordable for everyone. Virgin Galactic is providing suborbital spaceflights. Rocket Lab is a small satellite provider. Blue Origin manufactures sub-orbital and orbital reusable rockets. Perhaps the most successful is SpaceX. SpaceX’s accomplishments include: Sending spacecraft to the International Space Station. Starlink, a satellite internet constellation providing satellite Internet access. Sending manned missions to Space. One reason SpaceX can do this is the rocket launches are relatively inexpensive. SpaceX advertises Falcon 9 rocket launches on its website with a cost of 62 million dollars; other providers cost upwards of 165 million dollars each, much of the savings is because SpaceX can reuse the first stage.
-
-![SpaceX Launch Failure Instances](https://github.com/debdattasarkar/SpaceX-Data-Science-Project/blob/master/images/fail.gif)
-
-![SpaceX Launch Success Instances](https://github.com/debdattasarkar/SpaceX-Data-Science-Project/blob/master/images/success.gif)
 
 In this capstone, the role of a data scientist working for a new rocket company IS ASSUMED. Space Y that would like to compete with SpaceX founded by Billionaire industrialist Allon Musk. The job is to determine the price of each launch. It's to be done by gathering information about Space X and creating dashboards for the said team. It's also to be determined if SpaceX will reuse the first stage. Instead of using rocket science to determine if the first stage will land successfully, to be trained in here a machine learning model and use public information to predict if SpaceX will reuse the first stage.
 
@@ -62,20 +55,8 @@ In this capstone, the role of a data scientist working for a new rocket company 
 
 - [Present Your Data-Driven Insights with Presentation](https://github.com/MAAYAA-MOH/SpaceX-Data-Science-Project/blob/master/Final%20Presentation/Data-Driven%20Insights.pdf)
 
-## 💫 Out of the Box Thinking <a name = "outofbox"></a>
 
-- Advanced Folium Function [MeasurementControl Plugin with Folium](https://github.com/MAAYAA-MOH/SpaceX-Data-Science-Project/blob/master/Extra/Extra%20-%20Folium%20MeasureControl%20Plugin.ipynb)
-![Measurement Control Plugin](https://github.com/MAAYAA-MOH/SpaceX-Data-Science-Project/blob/master/images/measurementcontrol.png)
-- Advanced Folium Function [Folium Custom Pane with Labels](https://github.com/MAAYAA-MOH/SpaceX-Data-Science-Project/blob/master/Extra/Extra%20-%20Folium%20-%20Custom%20Pane%20with%20Labels.ipynb)
-![Folium Custom Pane with Labels](https://github.com/MAAYAA-MOH/SpaceX-Data-Science-Project/blob/master/images/custompanes.png)
-- [Hosting the Plotly on "Python Anywhere" Server with Flask](https://purnimatripathi.pythonanywhere.com/)
-![Interactive Plotly](https://github.com/MAAYAA-MOH/SpaceX-Data-Science-Project/blob/master/images/interactive-plotly.gif)
-- [Machine Learning - Decision Tree Construction](https://github.com/MAAYAA-MOH/SpaceX-Data-Science-Project/blob/master/Extra/Extra%20-%20Basic%20Decision%20Tree%20Construction.ipynb)
-![Decision Tree](https://github.com/MAAYAA-MOH/SpaceX-Data-Science-Project/blob/master/images/decision-tree.png)
-- [EDA Visualization with Interactive Plotly (Instead of Seaborn)](https://github.com/MAAYAA-MOH/SpaceX-Data-Science-Project/blob/master/Extra/Extra%20-%20Visualization%20with%20Plotly.ipynb)
-![Plotly](https://github.com/MAAYAA-MOH/SpaceX-Data-Science-Project/blob/master/images/plotly.png)
-- [IBM Cognos Visualization with Player](https://eu-de.dataplatform.cloud.ibm.com/dashboards/e25fbdbc-29a0-47f5-b388-1a70671ac11e/view/653fe63717ad30d71ed0f2e407cc7a037a667059b4bbd25681867b490d312597a86811c7c87e1a0bd2100265f7e4155a9b)
-![IBM Cognos](https://github.com/MAAYAA-MOH/SpaceX-Data-Science-Project/blob/master/images/IBM-Cognos.png)
+
 
 ## ⛏️ Built With <a name = "tech_stack"></a>
 
@@ -103,6 +84,6 @@ Dont jump into labs without study. Take time to study previous labs step by step
 
 #### © Copyright 2021 - [PURNIMA TRIPATH](https://github.com/MAAYAA-MOH)
 
-<p align="center"><a href="https://www.credly.com/badges/52ccac89-9e3d-42a2-a0f8-ec392892f4e5/public_url"><img src="https://github.com/debdattasarkar/SpaceX-Data-Science-Project/blob/master/certificatebadge/applied-data-science-capstone.png" alt="IBM Applied Data Science Capstone Project" width="190px"/></a> <a href="https://www.credly.com/badges/4b783214-c5b2-4b5a-ad19-1189d1c20288/public_url"><img src="https://github.com/debdattasarkar/SpaceX-Data-Science-Project/blob/master/certificatebadge/applied-data-science-specialization.1.png" alt="Applied Data Science Specialization" width="190px" padding="20px" /></a> <a href="https://www.credly.com/badges/4b783214-c5b2-4b5a-ad19-1189d1c20288/public_url"><img src="https://github.com/debdattasarkar/SpaceX-Data-Science-Project/blob/master/certificatebadge/data-science-professional-certificate.png" alt="Applied Data Science Specialization" width="185px"/> </a></p>
+<p align="center"><a href="https://www.credly.com/badges/52ccac89-9e3d-42a2-a0f8-ec392892f4e5/public_url"><img src="https://github.com/MAAYAA-MOH/SpaceX-Data-Science-Project/blob/master/certificatebadge/applied-data-science-capstone.png" alt="IBM Applied Data Science Capstone Project" width="190px"/></a> <a href="https://www.credly.com/badges/4b783214-c5b2-4b5a-ad19-1189d1c20288/public_url"><img src="https://github.com/MAAYAA-MOH/SpaceX-Data-Science-Project/blob/master/certificatebadge/applied-data-science-specialization.1.png" alt="Applied Data Science Specialization" width="190px" padding="20px" /></a> <a href="https://www.credly.com/badges/4b783214-c5b2-4b5a-ad19-1189d1c20288/public_url"><img src="https://github.com/MAAYAA-MOH/SpaceX-Data-Science-Project/blob/master/certificatebadge/data-science-professional-certificate.png" alt="Applied Data Science Specialization" width="185px"/> </a></p>
 
 <a href="https://www.linkedin.com/in/purnima-tripathi-1ba398207/"> ![LinkedIn Profile](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white) </a>
