@@ -33,27 +33,15 @@ In this capstone, the role of a data scientist working for a new rocket company 
 
 ## 1️⃣  Week 1 : Data Collection and Wrangling<a name = "week1"></a>
 
-- [Collecting the Data via API](https://github.com/MAAYAA-MOH/SpaceX-Data-Science-Project/blob/master/Week%201:%20(A)Collecting%20the%20Data-%20Collection%20API%20Lab.ipynb)
-- [Collecting the Data via Web Scraping](https://github.com/MAAAYAA-MOH/SpaceX-Data-Science-Project/blob/master/Week%201:%20(C)%20Data%20Collection%20with%20Web%20Scraping%20lab.ipynb)
-- [Data Wrangling](https://github.com/MAAYAA-MOH/SpaceX-Data-Science-Project/blob/master/Week%201:%20(B)%20Data%20Wrangling%20-%20EDA%20lab.ipynb)
-
 ## 2️⃣  Week 2 : Exploratory Data Analysis (EDA)<a name = "week2"></a>
-
-- [Exploratory Analysis Using SQL](https://github.com/MAAYAA-MOH/SpaceX-Data-Science-Project/blob/master/Week%202:%20(A)%20Exploratory%20Data%20Analysis%20Using%20SQL.ipynb)
-- [Exploratory Analysis Using Pandas and Matplotlib](https://github.com/MAAYAA-MOH/SpaceX-Data-Science-Project/blob/master/Week%202:%20(B)%20EDA%20with%20Visualization%20lab.ipynb)
 
 ## 3️⃣  Week 3 : Interactive Visual Analytics and Dashboard<a name = "week3"></a>
 
-- [Interactive Visual Analytics with Folium](https://github.com/MAAYAA-MOH/SpaceX-Data-Science-Project/blob/master/Week%203:(A)Interactive%20Visual%20Analytics%20with%20Folium.ipynb)
-- [Plotly](https://github.com/MAAYAA-MOH/SpaceX-Data-Science-Project/blob/master/Week%203%20-%20Plotly/plotly.py)
-
 ## 4️⃣ Week 4 : Predictive Analysis (Classification)<a name = "week4"></a>
-
-- [Machine Learning Prediction](https://github.com/MAAYAA-MOH/SpaceX-Data-Science-Project/blob/master/Week%204:%20(A)%20Machine%20Learning%20Prediction%20Lab.ipynb)
 
 ## 5️⃣  Week 5 : Present Your Data-Driven Insights <a name = "week5"></a>
 
-- [Present Your Data-Driven Insights with Presentation](https://github.com/MAAYAA-MOH/SpaceX-Data-Science-Project/blob/master/Final%20Presentation/Data-Driven%20Insights.pdf)
+
 
 
 
