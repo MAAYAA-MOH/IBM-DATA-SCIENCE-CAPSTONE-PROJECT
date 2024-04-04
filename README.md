@@ -14,15 +14,6 @@ This capstone project course will  gives a taste of what data scientists go thro
 
 This repo is shared for learning purpose not for cheating! If you find same slides or files copy and pasted in other assignments same as it is, report it as plagiarism.
 
-## 📝 Table of Contents
-
-- [Introduction](#introduction)
-- [Week 1](#week1)
-- [Week 2](#week2)
-- [Week 3](#week3)
-- [Week 4](#week4)
-- [Week 5](#week5)
-
 
 ## 🏁 Introduction <a name = "introduction"></a>
 
